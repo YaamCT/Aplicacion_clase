@@ -1,1 +1,2 @@
-# Aplicacion_clase
+# Este es el proyecto para la clase
+Saludos XD

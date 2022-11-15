@@ -4,7 +4,7 @@ st.sidebar.write("La alimentación es un proceso en el cual los seres vivos cons
 st.sidebar.image("https://www.gob.mx/cms/uploads/article/main_image/43779/Alimentaci_n-Alimentos-Dieta.jpg" ,width=300)
 with st.sidebar:
         st.write("Integrantes:")
-        sr.write("Julieta Yamileth Cruz Trillo 179473")
+        st.write("Julieta Yamileth Cruz Trillo 179473")
         st.write("Desiree Valenzuela González 330004")
         st.write("Universidad Autónoma de Chihuahua")
         st.write("Facultad de ciencias Químicas")
